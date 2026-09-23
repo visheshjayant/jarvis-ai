@@ -12,7 +12,7 @@ source.include_patterns = *.mp4
 
 version = 0.1.0
 
-requirements = python3,kivy,ffpyplayer
+requirements = python3,kivy
 
 orientation = portrait
 fullscreen = 1
